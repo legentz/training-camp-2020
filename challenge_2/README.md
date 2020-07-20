@@ -1,1 +1,1 @@
-To be updated
+We've been selected for Challenge 1.
