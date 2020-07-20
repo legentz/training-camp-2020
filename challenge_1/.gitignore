@@ -1,0 +1,13 @@
+__pycache__
+*.pyc
+.DS_Store
+
+# notebook
+.ipynb_checkpoints/
+
+# data
+TrainingCamp_Data/**
+
+# model checkpoints/saved .h5
+*.h5
+checkpoints/
